@@ -1,4 +1,4 @@
-# 🔐 AuthFlow Backend
+# 🔐 Auth Backend
 
 <div align="center">
 
