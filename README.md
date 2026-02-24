@@ -1,19 +1,26 @@
 
-
+# 🔐 Auth Backend
 
 <div align="center">
-#🔐 Auth Backend 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**A robust and secure authentication backend system built with Node.js & Express**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-[![Run In Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/51642188/2sBXcEjKkp)
+<br/>
+<br/>
+
+<b>A robust and secure authentication backend system built with Node.js & Express</b>
+
+<br/>
+<br/>
+
+<a href="https://documenter.getpostman.com/view/51642188/2sBXcEjKkp">
+  <img src="https://run.pstmn.io/button.svg" alt="Run In Postman"/>
+</a>
 
 </div>
-
 ---
 
 ## 📋 Table of Contents
