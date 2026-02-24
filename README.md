@@ -1,20 +1,20 @@
 
-# 🔐 Auth Backend
-
 <div align="center">
+
+<h1>🔐 Auth Backend</h1>
+
+<p>
+<b>A robust and secure authentication backend system built with Node.js & Express</b>
+</p>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-<br/>
-<br/>
-
-<b>A robust and secure authentication backend system built with Node.js & Express</b>
-
-<br/>
-<br/>
+<br/><br/>
 
 <a href="https://documenter.getpostman.com/view/51642188/2sBXcEjKkp">
   <img src="https://run.pstmn.io/button.svg" alt="Run In Postman"/>
