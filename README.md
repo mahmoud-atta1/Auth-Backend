@@ -1,4 +1,4 @@
-<div align="center">
+
 #🔐 Auth Backend 
 
 <div align="center">
