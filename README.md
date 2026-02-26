@@ -349,7 +349,7 @@ This is a training project, but contributions and suggestions are welcome!
 
 **Mahmoud Atta**
 
-- GitHub: [@mahmoud-atta1](https://github.com/mahmoud-atta1)
+- GitHub : [@mahmoud-atta1](https://github.com/mahmoud-atta1)
 
 ---
 
