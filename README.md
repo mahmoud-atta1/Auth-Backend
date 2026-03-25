@@ -54,7 +54,7 @@
 - ✅ Forgot Password & Reset Password flow
 - ✅ Logout and token invalidation
 - ✅ Protected routes with middleware
-- ✅ Input validation & error handling
+- ✅ Input validation & error handling.
 
 ---
 
