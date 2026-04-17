@@ -335,7 +335,7 @@ You can explore and test all API endpoints using the Postman collection:
 
 ## 🤝 Contributing
 
-This is a training project, but contributions and suggestions are welcome!
+This is a training project, but contributions and suggestions are welcome
 
 1. Fork the repo
 2. Create your feature branch: `git checkout -b feature/amazing-feature`
