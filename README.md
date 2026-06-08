@@ -219,7 +219,7 @@ http://localhost:3000/api
       "_id": "64f...",
       "name": "Mahmoud Atta",
       "email": "mahmoud@example.com",
-      "isVerified": false
+      "isVerified": fals
     }
   }
 }
