@@ -229,7 +229,7 @@ http://localhost:3000/api
 
 #### 📌 Login
 
-**POST** `/api/auth/login`
+**POST** `/api/auth/login
 
 ```json
 // Request Body
